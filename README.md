@@ -1,4 +1,4 @@
-Step 1/ Install all the packages : npm i 
+Step 1: Install all the packages : npm i 
 
 Step 2: Connect with your postgresql database 
 
